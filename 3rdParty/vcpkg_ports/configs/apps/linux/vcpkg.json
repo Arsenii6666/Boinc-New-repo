@@ -1,0 +1,15 @@
+{
+    "name": "boinc-apps",
+    "dependencies":
+    [
+        {
+          "name": "curl",
+          "features": ["openssl"],
+          "default-features": false
+        },
+        "rappture",
+        "opencl",
+        "ftgl",
+        "freeglut"
+    ]
+}

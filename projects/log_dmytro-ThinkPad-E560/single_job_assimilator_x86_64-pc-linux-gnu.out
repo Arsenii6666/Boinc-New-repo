@@ -1,0 +1,8 @@
+[2023/06/01 21:30:01] Executing command: single_job_assimilator -app single_job_x86_64-pc-linux-gnu
+2023-06-01 21:30:01.9118  Starting assimilator handler
+2023-06-01 21:30:04.9129  Quitting because trigger file '../stop_daemons' is present
+[2023/06/01 21:30:12] Executing command: single_job_assimilator -app single_job_x86_64-pc-linux-gnu
+2023-06-01 21:30:13.0920  Starting assimilator handler
+2023-06-02 02:38:28.6899  Quitting because trigger file '../stop_daemons' is present
+[2023/06/02 02:38:50] Executing command: single_job_assimilator -app single_job_x86_64-pc-linux-gnu
+2023-06-02 02:38:51.1947  Starting assimilator handler

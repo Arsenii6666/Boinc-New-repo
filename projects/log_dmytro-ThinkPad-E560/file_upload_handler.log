@@ -1,0 +1,2 @@
+2023-06-02 00:09:40.0067 [PID=443048] [warning] handle_request: no command
+2023-06-02 00:09:40.0067 [PID=443048]  Returning error to client 127.0.0.1: no command (transient)

@@ -1,0 +1,14 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+June 01 2023 UTC: Starting
+using default candidates_query
+approved candidates for UOTD under UOTD_THRESHOLD
+PHP Deprecated:  Creation of dynamic property BoincUser::$email_addr is deprecated in /home/dmytro/Downloads/boinc/projects/html/inc/uotd.inc on line 98
+
+Deprecated: Creation of dynamic property BoincUser::$email_addr is deprecated in /home/dmytro/Downloads/boinc/projects/html/inc/uotd.inc on line 98
+PHP Deprecated:  Creation of dynamic property BoincUser::$name is deprecated in /home/dmytro/Downloads/boinc/projects/html/inc/uotd.inc on line 99
+
+Deprecated: Creation of dynamic property BoincUser::$name is deprecated in /home/dmytro/Downloads/boinc/projects/html/inc/uotd.inc on line 99
+sh: 1: /usr/sbin/sendmail: not found
+no new verified profile found, selecting old UOTD that was shown least recently
+No screened users found

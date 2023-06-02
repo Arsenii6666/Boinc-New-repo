@@ -1,0 +1,19 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+Thu, 01 Jun 23 15:30:01 +0000: Starting
+Beginning to build country pages...
+0 users have profiles AND non-null country entries.
+Beginning to build country summary page...
+done building country summary page
+done building country pages
+Beginning to build alphabetical pages...
+0 users have profiles AND names.
+PHP Warning:  Undefined variable $letters_used in /home/dmytro/Downloads/boinc/projects/html/ops/update_profile_pages.php on line 328
+
+Warning: Undefined variable $letters_used in /home/dmytro/Downloads/boinc/projects/html/ops/update_profile_pages.php on line 328
+Beginning to build alphabetical summary pages...
+done building alphabetical pages
+Beginning to build picture pages...
+0 users have profiles AND uploaded a picture
+Generating 1 pages
+done building picture pages
+Thu, 01 Jun 23 15:30:01 +0000: Finished

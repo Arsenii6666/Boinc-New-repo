@@ -1,0 +1,9 @@
+2023-06-01 11:05:48 (372198): Can't open init data file - running in standalone mode
+2023-06-01 11:05:48 (372198): app started; CPU time 20.000000, flags:
+2023-06-01 11:05:48 (372198): Couldn't find input file, resolved name in.
+2023-06-01 11:05:54 (372206): Can't open init data file - running in standalone mode
+2023-06-01 19:53:23 (426810): Can't open init data file - running in standalone mode
+2023-06-01 19:53:23 (426810): app started; CPU time 20.000000, flags:
+2023-06-01 19:53:23 (426810): Couldn't find input file, resolved name in.
+2023-06-01 19:53:36 (426856): Can't open init data file - running in standalone mode
+2023-06-01 19:53:56 (426856): called boinc_finish(0)

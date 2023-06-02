@@ -1,0 +1,11 @@
+[2023/06/01 21:30:01] Executing command: sample_trivial_validator -app single_job_x86_64-pc-linux-gnu
+2023-06-01 21:30:02.0107  max_granted_credit: 73000000.000000
+2023-06-01 21:30:02.0111  Starting validator, debug level 3
+2023-06-01 21:30:05.0132  Quitting because trigger file '../stop_daemons' is present
+[2023/06/01 21:30:12] Executing command: sample_trivial_validator -app single_job_x86_64-pc-linux-gnu
+2023-06-01 21:30:13.1891  max_granted_credit: 73000000.000000
+2023-06-01 21:30:13.1892  Starting validator, debug level 3
+2023-06-02 02:38:29.2624  Quitting because trigger file '../stop_daemons' is present
+[2023/06/02 02:38:50] Executing command: sample_trivial_validator -app single_job_x86_64-pc-linux-gnu
+2023-06-02 02:38:51.2952  max_granted_credit: 73000000.000000
+2023-06-02 02:38:51.2954  Starting validator, debug level 3

@@ -1,0 +1,5 @@
+
+AuthName "UCU"
+AuthType Basic
+AuthUserFile /home/dmytro/Downloads/boinc/projects//html/ops/.htpasswd
+require valid-user

@@ -1,0 +1,21 @@
+{
+    "name": "boinc-msbuild-x64",
+    "dependencies":
+    [
+        {
+          "name": "curl",
+          "features": ["schannel"],
+          "default-features": false
+        },
+        "openssl",
+        "rappture",
+        {
+          "name": "wxwidgets",
+          "features": ["webview"],
+          "default-features": false
+        },
+        "gtest",
+        "ftgl",
+        "opencl"
+    ]
+}

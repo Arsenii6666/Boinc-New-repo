@@ -1,0 +1,12 @@
+{
+    "name": "boinc-libs",
+    "dependencies":
+    [
+        {
+          "name": "curl",
+          "features": ["schannel"],
+          "default-features": false
+        },
+        "openssl"
+    ]
+}

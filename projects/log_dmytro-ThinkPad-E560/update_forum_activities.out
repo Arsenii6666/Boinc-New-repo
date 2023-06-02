@@ -1,0 +1,42 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+Thu, 01 Jun 23 15:30:01 +0000: Starting
+Thu, 01 Jun 23 15:30:01 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+Thu, 01 Jun 23 16:30:01 +0000: Starting
+Thu, 01 Jun 23 16:30:01 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+Thu, 01 Jun 23 18:10:02 +0000: Starting
+Thu, 01 Jun 23 18:10:02 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+Thu, 01 Jun 23 19:10:01 +0000: Starting
+query: use UCU
+query: select * from UCU.thread  
+Thu, 01 Jun 23 19:10:01 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Thu, 01 Jun 23 20:10:02 +0000: Starting
+Thu, 01 Jun 23 20:10:02 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Thu, 01 Jun 23 21:10:02 +0000: Starting
+Thu, 01 Jun 23 21:10:02 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Thu, 01 Jun 23 23:00:37 +0000: Starting
+Thu, 01 Jun 23 23:00:37 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Fri, 02 Jun 23 07:15:02 +0000: Starting
+Fri, 02 Jun 23 07:15:02 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Fri, 02 Jun 23 08:15:02 +0000: Starting
+Fri, 02 Jun 23 08:15:02 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Fri, 02 Jun 23 09:15:02 +0000: Starting
+Fri, 02 Jun 23 09:15:02 +0000: Finished
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/lib/php/20220829/mysqli (/usr/lib/php/20220829/mysqli: cannot open shared object file: No such file or directory), /usr/lib/php/20220829/mysqli.so (/usr/lib/php/20220829/mysqli.so: undefined symbol: mysqlnd_global_stats)) in Unknown on line 0
+
+Fri, 02 Jun 23 10:15:02 +0000: Starting
+Fri, 02 Jun 23 10:15:02 +0000: Finished

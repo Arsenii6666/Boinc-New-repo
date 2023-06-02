@@ -1,0 +1,6 @@
+<job_desc>
+    <task>
+        <application>./apps/ucn_x86_64-pc-linux-gnu_218df2e4</application>
+        <command_line>-v</command_line>
+    </task>
+</job_desc>

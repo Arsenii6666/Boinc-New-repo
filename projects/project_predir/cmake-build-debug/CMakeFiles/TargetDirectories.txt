@@ -1,0 +1,3 @@
+/home/dmytro/CLionProjects/BOINC/cmake-build-debug/CMakeFiles/BOINC.dir
+/home/dmytro/CLionProjects/BOINC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmytro/CLionProjects/BOINC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
